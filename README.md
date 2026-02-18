@@ -2,11 +2,11 @@
 
 ## Key Metrics:
 
-- Best performing products
-- Best performing location
-- Best performing category
-- Total orders by product
-- Total revenue over time
+- Total patients
+- Percentage of smoking status
+- Smoking duration and daily intake
+- Smoking status by gender
+- Cholesterol and hypertension risk
 
 ## Skills/Concept Demonstrated:
 
@@ -18,9 +18,11 @@ The following Power BI features were incorporated;
 - Dashboard Automation
 
 ## Visualization & Analysis:
-![](https://github.com/Oluwaseun1348/Maven-Toys/blob/main/JPEG%20of%20Maven%20Toy%20Analysis.png)
+![](https://github.com/Oluwaseun1348/Healthcare-Analysis/blob/main/Screenshot%202026-02-16%20172933.png)
+![](https://github.com/Oluwaseun1348/Healthcare-Analysis/blob/main/Screenshot%202026-02-16%20173129.png)
 
-You can interact with the live visualization [HERE](https://app.powerbi.com/links/rXLhSy8bJ7?ctid=b61d2979-8126-486f-b13f-5007573345f0&pbi_source=linkShare)
+
+You can interact with the live visualization [HERE](https://app.powerbi.com/links/SxjaoMoRWo?ctid=b61d2979-8126-486f-b13f-5007573345f0&pbi_source=linkShare)
 
 ### Connect with me on my socials
 [LinkedIn](https://www.linkedin.com/in/shotayo-oluwaseun-b7b188238)
