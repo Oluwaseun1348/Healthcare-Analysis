@@ -18,10 +18,10 @@ The following Power BI features were incorporated;
 - Dashboard Automation
 
 ## Visualization & Analysis:
-### Healthy Health Dashboard
-![](https://github.com/Oluwaseun1348/Healthcare-Analysis/blob/main/Screenshot%202026-02-16%20173129.png)
 ### Damaged Health Dashboard
 ![](https://github.com/Oluwaseun1348/Healthcare-Analysis/blob/main/Screenshot%202026-02-16%20172933.png)
+### Healthy Health Dashboard
+![](https://github.com/Oluwaseun1348/Healthcare-Analysis/blob/main/Screenshot%202026-02-16%20173129.png)
 
 
 You can interact with the live visualization [HERE](https://app.powerbi.com/links/SxjaoMoRWo?ctid=b61d2979-8126-486f-b13f-5007573345f0&pbi_source=linkShare)
